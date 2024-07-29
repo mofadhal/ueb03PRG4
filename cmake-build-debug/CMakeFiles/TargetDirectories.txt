@@ -1,0 +1,3 @@
+C:/Users/alman/CLionProjects/ueb03Prg4/cmake-build-debug/CMakeFiles/ueb03Prg4.dir
+C:/Users/alman/CLionProjects/ueb03Prg4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alman/CLionProjects/ueb03Prg4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
